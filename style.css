@@ -1,0 +1,41 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color:cornflowerblue;
+    padding: 20px;
+
+}
+
+nav a {
+
+    text-decoration: none;
+    color: green;
+    font-family:Arial;
+
+}
+
+nav a:hover{
+
+    color: red;
+}
+
+
+
+
+
+h1{
+    color: #333;
+    text-decoration: underline;
+    font-family:"Calibri";
+    text-align: center;
+}
+
+p{
+    color: #666;
+    font-family:"Calibri";
+}
+
+body{
+    background-color: powderblue;
+}
